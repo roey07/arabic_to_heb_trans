@@ -1,2 +1,4 @@
 # arabic_to_heb_trans
-Arabic to Hebrew Transliteration
+This is a simple scripts that converts Arabic text to a transliteration in Hebrew letters.
+
+Usage: transliterate.py <TEXT_FILE>
